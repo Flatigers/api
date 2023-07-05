@@ -1,0 +1,13 @@
+{
+    "versionNew": 2,
+    "downUrl": "https://github.com/Flatigers/Arknithts-Info/releases/download/ver0.11_pre/app-release.apk",
+    "type": "debug",
+    "updateTip": [
+        {
+            "zh": "Update self-update function"
+        },
+        {
+            "en": "新增 “检查更新”功能； 完善 “设置与关于” 界面；"
+        }
+    ]
+}
